@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brett, an <a href="www.linkedin.com/in/brett-easton">IT Technician</a></h1>
+<h1>Hi, I'm Brett, an <a href="https://www.linkedin.com/in/brett-easton/">IT Technician</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
