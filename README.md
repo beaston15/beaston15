@@ -6,7 +6,8 @@
   - [Wireshark Analysis](https://github.com/beaston15/Wireshark-Analysis)
 - <b>Command Prompt and PowerShell</b>
   - [Command Prompt and Powershell Incident Response](https://github.com/beaston15/CMD-PS)
-
+- <b>SIEM</b>
+  - [Splunk Analysis](https://github.com/beaston15/SIEM)
     
 <h2> Information Technology Projects:</h2>
 
