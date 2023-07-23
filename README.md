@@ -1,5 +1,10 @@
 <h1>Hi, I'm Brett, an <a href="https://www.linkedin.com/in/brett-easton/">Cybersecurity Analyst</a></h1>
 
+<h2>Cybersecurity Projects</h2>
+
+- <b>Wireshark</b>
+  - [Wireshark Analysis](https://github.com/beaston15/Wireshark-Analysis)
+  
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
