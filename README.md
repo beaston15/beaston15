@@ -4,7 +4,10 @@
 
 - <b>Wireshark</b>
   - [Wireshark Analysis](https://github.com/beaston15/Wireshark-Analysis)
-  
+- <b>Command Prompt and PowerShell</b>
+  - [Command Prompt and Powershell Incident Response](https://github.com/beaston15/CMD-PS)
+
+    
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
